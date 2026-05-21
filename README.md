@@ -42,6 +42,7 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -79,9 +80,9 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td width="50%" valign="top">
 
 ![Ma façon de travailler](https://img.shields.io/badge/Ma%20fa%C3%A7on%20de%20travailler-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
@@ -95,9 +96,8 @@ Je privilégie :
 - une communication claire avec les clients et les équipes
 - des choix adaptés au contexte réel du projet
 
-Mon objectif est de créer un pont solide entre la vision client, les usages utilisateurs et la réalisation technique.
-
-<br>
+</td>
+<td width="50%" valign="top">
 
 ![Ce que je développe aujourd’hui](https://img.shields.io/badge/Ce%20que%20je%20d%C3%A9veloppe%20aujourd%E2%80%99hui-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
@@ -113,3 +113,13 @@ Mes axes de progression actuels :
 - structuration d’environnements de développement
 - bonnes pratiques front-end et back-end
 - documentation technique et pédagogique
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Objectif
+
+Créer un pont solide entre la vision client, les usages utilisateurs et la réalisation technique.
