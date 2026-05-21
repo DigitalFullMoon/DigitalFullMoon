@@ -12,7 +12,7 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 <tr>
 <td width="50%" valign="top">
 
-## Profil
+![Profil](https://img.shields.io/badge/Profil-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 - Chef de Projet Web
 - Responsable de la stratégie digitale
@@ -27,7 +27,7 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 </td>
 <td width="50%" valign="top">
 
-## Compétences principales
+![Compétences principales](https://img.shields.io/badge/Comp%C3%A9tences%20principales-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 - Gestion de projet web
 - Cadrage fonctionnel
@@ -45,7 +45,7 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 <tr>
 <td width="50%" valign="top">
 
-## Langages et technologies
+![Langages et technologies](https://img.shields.io/badge/Langages%20et%20technologies-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 - HTML
 - CSS
@@ -63,9 +63,10 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 </td>
 <td width="50%" valign="top">
 
-## Outils
+![Outils](https://img.shields.io/badge/Outils-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 - Trello
+- Notion
 - Microsoft Office
 - Microsoft Project
 - Google Workspace
@@ -82,11 +83,12 @@ Je suis également en montée en compétence technique dans le cadre d’un parc
 
 <br>
 
-## Ma façon de travailler
+![Ma façon de travailler](https://img.shields.io/badge/Ma%20fa%C3%A7on%20de%20travailler-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 J’aime les environnements propres, structurés et évolutifs.
 
 Je privilégie :
+
 - les bases solides plutôt que la surconfiguration
 - la compréhension du besoin avant la solution
 - une organisation simple, lisible et maintenable
@@ -95,11 +97,14 @@ Je privilégie :
 
 Mon objectif est de créer un pont solide entre la vision client, les usages utilisateurs et la réalisation technique.
 
-## Ce que je développe aujourd’hui
+<br>
+
+![Ce que je développe aujourd’hui](https://img.shields.io/badge/Ce%20que%20je%20d%C3%A9veloppe%20aujourd%E2%80%99hui-E30613?style=for-the-badge&labelColor=E30613&color=E30613)
 
 Je renforce actuellement mes compétences en développement afin de mieux comprendre, concevoir et piloter des projets web complets.
 
 Mes axes de progression actuels :
+
 - JavaScript moderne
 - React
 - architecture de projet
